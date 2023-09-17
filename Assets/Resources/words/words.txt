@@ -1,0 +1,5 @@
+allowance
+birthday
+calculator
+expensive
+satisfaction
